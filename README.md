@@ -1,2 +1,1 @@
-# bibecs183
-Bi/BE/CS 183 Winter 2019 - Introduction to Computational Biology and Bioinformatics
+# Caltech Bi/BE/CS 183 - Introduction to Computational Biology and Bioinformatics
